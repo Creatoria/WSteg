@@ -1,0 +1,15 @@
+# working directory
+.vscode
+__pycache__
+test.py
+
+# localfiles
+test
+*.wav
+*.mp3
+*.log
+Doc
+
+# builds
+build
+dist
